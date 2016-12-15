@@ -24,7 +24,9 @@ Roles involved in this activity include
 
 ###Content Platforms
 Platforms for internal content come in many forms. We'll look at some of these:
-* Atlassian Confluence
-* Atlassian JIRA - the bodies of tickets often contain the bulk of a company's content, especially in an engineering organization
-* Slack
-* Yammer
+Tool | Content
+=================
+Atlassian Confluence | Wiki pages, wiki comments, file lists, meeting notes
+Atlassian JIRA | The bodies of tickets often contain the bulk of a company's content, especially in an engineering organization
+Slack | Though minimally structured and not designed for analytics, a chat platform like Slack can perform like Facebook to identify mood, influencers, and unanswered questions
+Yammer | Like Slack, Yammer can become an alternative to email that ends up storing most of the text output of a company
