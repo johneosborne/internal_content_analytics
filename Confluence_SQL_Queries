@@ -5,3 +5,22 @@ INNER JOIN SPACES S ON C.spaceid = S.spaceid
 WHERE C.CONTENTTYPE='PAGE'
 GROUP BY C.title
 ORDER BY S.spacename
+
+--Get all page titles across Confluence site
+select
+
+c.CONTENTID
+, c.TITLE
+, c.CONTENT_STATUS
+, c.CREATIONDATE
+, c.LASTMODDATE
+, s.SPACENAME
+, s.SPACEKEY
+
+from CONTENT c, SPACES s
+where c.CONTENTTYPE='PAGE'
+and c.CONTENT_STATUS='current'
+and c.PREVVER is null
+and s.SPACEKEY not like '%Archive'
+and c.SPACEID=s.SPACEID
+order by c.TITL
