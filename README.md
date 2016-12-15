@@ -19,7 +19,7 @@ Roles involved in this activity include
 * Risk analysts and business managers interested in gaps or bottlenecks related to knowledge transfer
 
 ###Included in this repo
-1. Procedural information and tips (on the wiki)
+1. Procedural information and tips (on the [wiki](https://github.com/johneosborne/internal_content_analytics/wiki))
 2. Code samples for custom solutions, including SQL queries, scripts, and custom-built tools
 
 ###Content Platforms
