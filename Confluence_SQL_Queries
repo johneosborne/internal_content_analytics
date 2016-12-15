@@ -1,0 +1,7 @@
+--Get last change dates across Confluence site
+SELECT S.spacename, C.title, MAX(C.lastmoddate)
+FROM CONTENT C
+INNER JOIN SPACES S ON C.spaceid = S.spaceid
+WHERE C.CONTENTTYPE='PAGE'
+GROUP BY C.title
+ORDER BY S.spacename
