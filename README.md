@@ -22,4 +22,9 @@ Roles involved in this activity include
 1. Procedural information and tips (on the wiki)
 2. Code samples for custom solutions, including SQL queries, scripts, and custom-built tools
 
-
+###Content Platforms
+Platforms for internal content come in many forms. We'll look at some of these:
+* Atlassian Confluence
+* Atlassian JIRA - the bodies of tickets often contain the bulk of a company's content, especially in an engineering organization
+* Slack
+* Yammer
