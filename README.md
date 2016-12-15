@@ -13,7 +13,7 @@ The insights from these analytics will lead to
 * better collaboration
 * clearer strategic focus
 
-Related roles for this activity include
+Roles involved in this activity include
 * Content strategists to extract the insights
 * Writers and instructional designers to implement changes in content
 * Risk analysts and business managers interested in gaps or bottlenecks related to knowledge transfer
