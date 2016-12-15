@@ -2,7 +2,9 @@
 
 # Internal Content Analytics
 
-This is a collection of practical steps for optimizing internal content, from wikis to online training to SOPs, based on analytics.
+By optimizing content we remove one kind of bottleneck in an organization - knowledge transfer. It may be that something other than knowledge is limiting your organization, so you should analyze the business with at least a qualitative eye to confirm that content is a productive place to invest, before you invest in it. It may be that you have bigger priorities in management practices, incentives, or tools. Very often, however, knowledge transfer is at least one of your bottlenecks.
+
+<img src="https://cloud.githubusercontent.com/assets/9612744/21214057/435746fe-c24d-11e6-97cd-f4503c66f692.png" width="300">
 
 Use the procedures, tips, and code samples in this repository to get actionable insights from content on internal platforms. The content may be published on an intranet or wiki, posted to a file share, or created by the community through enterprise social media. 
 
